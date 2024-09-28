@@ -1,3 +1,4 @@
+'''Файл для ДЗ 2'''
 
 def print_world():
     print("World!")
@@ -8,4 +9,3 @@ def print_name(name):
 
 
 print_name('Igor')
-
